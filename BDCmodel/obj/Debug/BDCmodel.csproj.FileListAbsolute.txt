@@ -1,0 +1,3 @@
+C:\Users\Davide\Dropbox\SOURCES\BDCmodel\BDCmodel\bin\Debug\BDCmodel.pdb
+C:\Users\Davide\Dropbox\SOURCES\BDCmodel\BDCmodel\obj\Debug\BDCmodel.dll
+C:\Users\Davide\Dropbox\SOURCES\BDCmodel\BDCmodel\obj\Debug\BDCmodel.pdb

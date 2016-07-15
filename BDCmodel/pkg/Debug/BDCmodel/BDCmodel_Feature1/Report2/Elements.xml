@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Url="Lists/Report2" Description="Report2" OnQuickLaunch="TRUE" Title="Report2">
+    <DataSource>
+      <Property Name="LobSystemInstance" Value="PandasoData" />
+      <Property Name="EntityNamespace" Value="OPandas" />
+      <Property Name="Entity" Value="Report2" />
+      <Property Name="SpecificFinder" Value="ReadSpecificReport2rowtype" />
+      <Property Name="MetadataCatalogFileName" Value="BDCMetadata.bdcm" />
+    </DataSource>
+  </ListInstance>
+</Elements>
